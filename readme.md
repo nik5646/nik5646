@@ -20,14 +20,14 @@ I am a **Software Engineer** with over 5 years of experience in building scalabl
 
 ---
 
-### 📊 GitHub Statistics
+<!-- ### 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Nikky's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ### 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ I am a **Software Engineer** with over 5 years of experience in building scalabl
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Messaging** | ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) |
+| **Messaging** | ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white) |
 
 ---
 
@@ -46,7 +46,7 @@ I am a **Software Engineer** with over 5 years of experience in building scalabl
 *   **Gateway Services:** High-performance communication via MQTT.
 *   **Reliability:** Implemented advanced retry and buffering strategies for message publishing.
 *   **FOTA:** End-to-end Firmware Over-The-Air update workflows.
-*   **Cloud Ingestion:** Scalable data adapters using Azure Event Hub and KEDA.
+*   **Cloud Ingestion:** Scalable data adapters using Azure Event Hub.
 
 ---
 
